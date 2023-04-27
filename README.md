@@ -5,7 +5,7 @@
 *  [Intro](https://github.com/marl3nG/Google-clone/blob/main/README.md#introducci%C3%B3n)
 *  [Qué construí](https://github.com/marl3nG/Google-clone/blob/main/README.md#qu%C3%A9-constru%C3%AD)
 *  [Objetivos del Proyecto](https://github.com/marl3nG/Google-clone/blob/main/README.md#--objetivo-del-proyecto)
-*  [¡Link al Demo!](https://github.com/marl3nG/Google-clone/blob/main/README.md#objetivo-del-proyecto)
+*  [¡Link al Demo!](https://github.com/marl3nG/Google-clone/blob/main/README.md#%EF%B8%8F--link-al-demo)
 
 ***
 

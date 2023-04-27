@@ -2,10 +2,10 @@
 ######  Creado con HTML5 y CSS3  en el bootcamp de TecnolochicasPro
 
 ## ÍNDICE
-*  [Intro]()
-*  [Qué construí]()
+*  [Intro](https://github.com/marl3nG/Google-clone/blob/main/README.md#introducci%C3%B3n)
+*  [Qué construí](https://github.com/marl3nG/Google-clone/blob/main/README.md#qu%C3%A9-constru%C3%AD)
 *  [Objetivos del Proyecto]()
-*  [¡Link al Demo!]()
+*  [¡Link al Demo!](https://github.com/marl3nG/Google-clone/blob/main/README.md#objetivo-del-proyecto)
 
 ***
 
@@ -22,8 +22,8 @@ El proyecto está enfocado en la construcción de la interfaz de Google, tomando
 
 *  Footer: Sección que contiene información extra para el usuarix, así como hipervínculos al final de la página
 
-## Objetivo del Proyecto
+##  🚀  Objetivo del Proyecto
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
-##🚀 ¡Enlace a la Demo!
-Visualiza mi proyecto terminado aquí [Clonación de Google](https://marl3ng.github.io/Google-clone/)
+##  🖇️  ¡Link al Demo!
+Visualiza mi proyecto terminado aquí [Clonación de Google] (https://marl3ng.github.io/Google-clone/)
